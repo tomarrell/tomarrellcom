@@ -6,5 +6,5 @@ Uses arrow keys on for snake control on desktop and finger swipe on mobile, incl
 Todo:
 Add  global leaderboard
 
-##License
+## License
 This project is licensed under the MIT license, allowing reuse even for commercial applications with applicable accreditation.
