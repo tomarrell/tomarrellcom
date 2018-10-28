@@ -8,7 +8,9 @@ Built using HTML5 Canvas.
 It is currently accessible at [https://tomarrell.com](https://tomarrell.com).
 
 Todo:
-Add  global leaderboard
+- [x] Add Fathom analytics
+- [ ] Global leaderboard
+
 
 ## License
 This project is licensed under the MIT license, allowing reuse even for commercial applications with applicable accreditation.
