@@ -1,7 +1,11 @@
-# TomArrell.com
+# Tom's Personal Site
 Current personal site source. Includes an interactive snake game written in vanilla JS, working on both desktop and mobile.
 
 Uses arrow keys on for snake control on desktop and finger swipe on mobile, includes ability to enable/disable snake self-collisions. Tested on all major browsers and most phone sizes.
+
+Built using HTML5 Canvas. 
+
+It is currently accessible at [https://tomarrell.com](https://tomarrell.com).
 
 Todo:
 Add  global leaderboard
