@@ -68,9 +68,11 @@ a:hover {
 }
 
 .modal .float-right {
+  height: 100%;
+  box-sizing: border-box;
   padding: 2em 2em 8em 3.9em;
   position: relative;
-  width: 52%;
+  width: 60%;
   float: right;
   color: #111;
   background-color: rgba(241, 241, 255, 0.8);
