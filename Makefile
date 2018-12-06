@@ -5,7 +5,7 @@ clean:
 
 build: clean
 	mkdir build
-	cp -R css fonts images js favicon.ico index.html ./build
+	cp -R css fonts images js favicon.ico gpg.asc index.html ./build
 	docker build -t tomarrellcom .
 
 run: build
