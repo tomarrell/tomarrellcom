@@ -1,3 +1,6 @@
+**NB: This repo no longer contains the latest version of tomarrell.com. The new repo is over [here](https://github.com/tomarrell/website)**
+
+
 # Tom's Personal Site
 Current personal site source. Includes an interactive snake game written in vanilla JS, working on both desktop and mobile.
 
